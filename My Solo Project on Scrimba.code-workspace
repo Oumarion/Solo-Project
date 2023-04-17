@@ -1,0 +1,11 @@
+{
+  "folders": [
+	{
+		"name": "My Solo Project on Scrimba",
+		"path": "."
+	}
+],
+  "settings": {
+    "liveServer.settings.multiRootWorkspaceName": "My Solo Project on Scrimba"
+  }
+}
